@@ -21,5 +21,8 @@
     <ClCompile Include="WhyNeedToKnow computerCA.cpp">
       <Filter>소스 파일\StartCA</Filter>
     </ClCompile>
+    <ClCompile Include="CA.cpp">
+      <Filter>소스 파일\StartCA</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
