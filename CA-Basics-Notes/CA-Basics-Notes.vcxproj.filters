@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\StartCA">
       <UniqueIdentifier>{cb9ec5f0-322e-41ed-baff-334fbbced8df}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Data">
+      <UniqueIdentifier>{de04eae3-654b-437b-892a-908ae1a04b7b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WhyNeedToKnow computerCA.cpp">
@@ -23,6 +26,9 @@
     </ClCompile>
     <ClCompile Include="CA.cpp">
       <Filter>소스 파일\StartCA</Filter>
+    </ClCompile>
+    <ClCompile Include="HowToRepresentNumbersWith0And1.cpp">
+      <Filter>소스 파일\Data</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
