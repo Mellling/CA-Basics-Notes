@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CA.cpp" />
+    <ClCompile Include="HowToRepresentCharactersWith0And1.cpp" />
     <ClCompile Include="HowToRepresentNumbersWith0And1.cpp" />
     <ClCompile Include="WhyNeedToKnow computerCA.cpp" />
   </ItemGroup>

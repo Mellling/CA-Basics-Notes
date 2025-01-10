@@ -30,5 +30,8 @@
     <ClCompile Include="HowToRepresentNumbersWith0And1.cpp">
       <Filter>소스 파일\Data</Filter>
     </ClCompile>
+    <ClCompile Include="HowToRepresentCharactersWith0And1.cpp">
+      <Filter>소스 파일\Data</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
