@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Data">
       <UniqueIdentifier>{de04eae3-654b-437b-892a-908ae1a04b7b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Command">
+      <UniqueIdentifier>{80ebb5d8-dfcb-4dbf-b704-c394a133b4b8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WhyNeedToKnow computerCA.cpp">
@@ -32,6 +35,9 @@
     </ClCompile>
     <ClCompile Include="HowToRepresentCharactersWith0And1.cpp">
       <Filter>소스 파일\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceCodeAndCommand.cpp">
+      <Filter>소스 파일\Command</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
