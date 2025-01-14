@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\Command">
       <UniqueIdentifier>{80ebb5d8-dfcb-4dbf-b704-c394a133b4b8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\How CPUs Work">
+      <UniqueIdentifier>{cb91b16d-6fac-4188-bfc3-0fe431bfae41}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WhyNeedToKnow computerCA.cpp">
@@ -41,6 +44,9 @@
     </ClCompile>
     <ClCompile Include="CommandStructure.cpp">
       <Filter>소스 파일\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="ALUAndControlUnit.cpp">
+      <Filter>소스 파일\How CPUs Work</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
