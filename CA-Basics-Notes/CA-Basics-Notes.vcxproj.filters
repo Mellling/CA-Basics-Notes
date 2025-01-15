@@ -48,5 +48,8 @@
     <ClCompile Include="ALUAndControlUnit.cpp">
       <Filter>소스 파일\How CPUs Work</Filter>
     </ClCompile>
+    <ClCompile Include="Register.cpp">
+      <Filter>소스 파일\How CPUs Work</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
