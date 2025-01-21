@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\How CPUs Work">
       <UniqueIdentifier>{cb91b16d-6fac-4188-bfc3-0fe431bfae41}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\CPU Performance Improvement Techniques">
+      <UniqueIdentifier>{ab179b2e-270f-4d0d-8685-a6b53890582a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WhyNeedToKnow computerCA.cpp">
@@ -53,6 +56,9 @@
     </ClCompile>
     <ClCompile Include="InstructionCyclesAndInterrupts.cpp">
       <Filter>소스 파일\How CPUs Work</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignTechniquesForFastCPUs.cpp">
+      <Filter>소스 파일\CPU Performance Improvement Techniques</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
