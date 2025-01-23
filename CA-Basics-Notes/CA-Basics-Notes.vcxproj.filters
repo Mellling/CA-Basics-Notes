@@ -60,5 +60,8 @@
     <ClCompile Include="DesignTechniquesForFastCPUs.cpp">
       <Filter>소스 파일\CPU Performance Improvement Techniques</Filter>
     </ClCompile>
+    <ClCompile Include="InstructionParallelProcessingTechnique.cpp">
+      <Filter>소스 파일\CPU Performance Improvement Techniques</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

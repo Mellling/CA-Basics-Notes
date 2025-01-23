@@ -134,6 +134,7 @@
     <ClCompile Include="HowToRepresentCharactersWith0And1.cpp" />
     <ClCompile Include="HowToRepresentNumbersWith0And1.cpp" />
     <ClCompile Include="InstructionCyclesAndInterrupts.cpp" />
+    <ClCompile Include="InstructionParallelProcessingTechnique.cpp" />
     <ClCompile Include="Register.cpp" />
     <ClCompile Include="SourceCodeAndCommand.cpp" />
     <ClCompile Include="WhyNeedToKnow computerCA.cpp" />
