@@ -63,5 +63,8 @@
     <ClCompile Include="InstructionParallelProcessingTechnique.cpp">
       <Filter>소스 파일\CPU Performance Improvement Techniques</Filter>
     </ClCompile>
+    <ClCompile Include="CISCAndRISC.cpp">
+      <Filter>소스 파일\CPU Performance Improvement Techniques</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

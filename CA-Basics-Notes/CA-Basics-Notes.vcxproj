@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="ALUAndControlUnit.cpp" />
     <ClCompile Include="CA.cpp" />
+    <ClCompile Include="CISCAndRISC.cpp" />
     <ClCompile Include="CommandStructure.cpp" />
     <ClCompile Include="DesignTechniquesForFastCPUs.cpp" />
     <ClCompile Include="HowToRepresentCharactersWith0And1.cpp" />
