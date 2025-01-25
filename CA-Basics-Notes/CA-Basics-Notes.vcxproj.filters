@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\CPU Performance Improvement Techniques">
       <UniqueIdentifier>{ab179b2e-270f-4d0d-8685-a6b53890582a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Memory And Cache Memory">
+      <UniqueIdentifier>{4e990a2a-7b72-40d1-83f5-55f8b1353f14}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WhyNeedToKnow computerCA.cpp">
@@ -65,6 +68,9 @@
     </ClCompile>
     <ClCompile Include="CISCAndRISC.cpp">
       <Filter>소스 파일\CPU Performance Improvement Techniques</Filter>
+    </ClCompile>
+    <ClCompile Include="FeaturesAndTypesOfRAM.cpp">
+      <Filter>소스 파일\Memory And Cache Memory</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

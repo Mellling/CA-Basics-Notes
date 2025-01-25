@@ -132,6 +132,7 @@
     <ClCompile Include="CISCAndRISC.cpp" />
     <ClCompile Include="CommandStructure.cpp" />
     <ClCompile Include="DesignTechniquesForFastCPUs.cpp" />
+    <ClCompile Include="FeaturesAndTypesOfRAM.cpp" />
     <ClCompile Include="HowToRepresentCharactersWith0And1.cpp" />
     <ClCompile Include="HowToRepresentNumbersWith0And1.cpp" />
     <ClCompile Include="InstructionCyclesAndInterrupts.cpp" />
