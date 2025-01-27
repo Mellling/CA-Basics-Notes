@@ -72,5 +72,8 @@
     <ClCompile Include="FeaturesAndTypesOfRAM.cpp">
       <Filter>소스 파일\Memory And Cache Memory</Filter>
     </ClCompile>
+    <ClCompile Include="AddressSpaceInMemory.cpp">
+      <Filter>소스 파일\Memory And Cache Memory</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

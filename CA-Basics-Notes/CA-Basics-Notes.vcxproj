@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AddressSpaceInMemory.cpp" />
     <ClCompile Include="ALUAndControlUnit.cpp" />
     <ClCompile Include="CA.cpp" />
     <ClCompile Include="CISCAndRISC.cpp" />
