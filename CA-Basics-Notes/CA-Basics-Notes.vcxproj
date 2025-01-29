@@ -130,6 +130,7 @@
     <ClCompile Include="AddressSpaceInMemory.cpp" />
     <ClCompile Include="ALUAndControlUnit.cpp" />
     <ClCompile Include="CA.cpp" />
+    <ClCompile Include="CacheMemory.cpp" />
     <ClCompile Include="CISCAndRISC.cpp" />
     <ClCompile Include="CommandStructure.cpp" />
     <ClCompile Include="DesignTechniquesForFastCPUs.cpp" />
