@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\Memory And Cache Memory">
       <UniqueIdentifier>{4e990a2a-7b72-40d1-83f5-55f8b1353f14}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Auxiliary Memory">
+      <UniqueIdentifier>{027b3040-ac28-4976-ae31-b23a33ae3166}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WhyNeedToKnow computerCA.cpp">
@@ -77,6 +80,9 @@
     </ClCompile>
     <ClCompile Include="CacheMemory.cpp">
       <Filter>소스 파일\Memory And Cache Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="VariousAuxiliaryMemory.cpp">
+      <Filter>소스 파일\Auxiliary Memory</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
