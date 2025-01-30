@@ -133,6 +133,7 @@
     <ClCompile Include="CacheMemory.cpp" />
     <ClCompile Include="CISCAndRISC.cpp" />
     <ClCompile Include="CommandStructure.cpp" />
+    <ClCompile Include="DefinitionAndTypesOfRAID.cpp" />
     <ClCompile Include="DesignTechniquesForFastCPUs.cpp" />
     <ClCompile Include="FeaturesAndTypesOfRAM.cpp" />
     <ClCompile Include="HowToRepresentCharactersWith0And1.cpp" />

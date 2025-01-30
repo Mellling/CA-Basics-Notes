@@ -84,5 +84,8 @@
     <ClCompile Include="VariousAuxiliaryMemory.cpp">
       <Filter>소스 파일\Auxiliary Memory</Filter>
     </ClCompile>
+    <ClCompile Include="DefinitionAndTypesOfRAID.cpp">
+      <Filter>소스 파일\Auxiliary Memory</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
