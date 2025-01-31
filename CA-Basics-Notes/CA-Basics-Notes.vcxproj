@@ -135,6 +135,7 @@
     <ClCompile Include="CommandStructure.cpp" />
     <ClCompile Include="DefinitionAndTypesOfRAID.cpp" />
     <ClCompile Include="DesignTechniquesForFastCPUs.cpp" />
+    <ClCompile Include="DeviceControllerAndDeviceDriver.cpp" />
     <ClCompile Include="FeaturesAndTypesOfRAM.cpp" />
     <ClCompile Include="HowToRepresentCharactersWith0And1.cpp" />
     <ClCompile Include="HowToRepresentNumbersWith0And1.cpp" />
