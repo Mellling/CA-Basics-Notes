@@ -93,5 +93,8 @@
     <ClCompile Include="DeviceControllerAndDeviceDriver.cpp">
       <Filter>소스 파일\Input/Output Device</Filter>
     </ClCompile>
+    <ClCompile Include="VariousInput\OutputMethods.cpp">
+      <Filter>소스 파일\Input/Output Device</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

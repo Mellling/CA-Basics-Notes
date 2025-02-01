@@ -144,6 +144,7 @@
     <ClCompile Include="Register.cpp" />
     <ClCompile Include="SourceCodeAndCommand.cpp" />
     <ClCompile Include="VariousAuxiliaryMemory.cpp" />
+    <ClCompile Include="VariousInput\OutputMethods.cpp" />
     <ClCompile Include="WhyNeedToKnow computerCA.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
